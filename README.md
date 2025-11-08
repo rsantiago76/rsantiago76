@@ -1,16 +1,20 @@
-## Hi there 👋
+## Richard Santiago 👋
+**`Growth Lead at NextWork`** 
 
-<!--
-**rsantiago76/rsantiago76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I build, ship, and tell the story in public.
+- Grew NextWorks social media to 250K+ followers in one year.
+- Help teach 145,000+ students cloud, AI, and tech skills
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skill stack
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,dynamodb,aws,powershell,terraform,visualstudio,windows)](https://skillicons.dev)
+
+*Also comfortable with**: Python, CI/CD pipelines, Networking and Security (VPC, IAM).
+
+
+
+---
+
