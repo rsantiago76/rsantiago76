@@ -1,10 +1,10 @@
 ## Richard Santiago 👋
-**`Growth Lead at NextWork`** 
+**`Cloud Engineer with a passion for learning`** 
 
 ## About Me
-- I build, ship, and tell the story in public.
-- Grew NextWorks social media to 250K+ followers in one year.
-- Help teach 145,000+ students cloud, AI, and tech skills
+- Hello, I'm Richard Santiago, and my passion lies in cloud computing and AWS. This portfolio is a testament to my ability to design, construct, and manage AWS solutions for diverse set of use cases.
+- I dive into each project to gain a deeper understanding of the AWS architecture.
+- Currently learning the violin and I enjoy bodybuilding
 
 
 ## Skill stack
