@@ -1,5 +1,5 @@
 ## Richard Santiago 👋
-**`Cloud Engineer with a passion for learning`** 
+Cloud & AI Automation Engineer | Azure • AWS • Power Platform
 
 ## About Me
 - Hello, I'm Richard Santiago. I build cloud solutions and AI-powered automations across AWS, Azure, and Microsoft Power Platform, with a focus on reducing manual work in IT operations.
