@@ -11,9 +11,9 @@
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,dynamodb,aws,powershell,terraform,visualstudio,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,py,powershell,terraform,docker,dynamodb,git,github,vscode,windows)](https://skillicons.dev)
 
-*Also comfortable with**: Python, CI/CD pipelines, Networking and Security (VPC, IAM).
+*Also comfortable with*: Python, Azure OpenAI, CI/CD pipelines, Networking and Security (VPC, IAM).
 
 
 
