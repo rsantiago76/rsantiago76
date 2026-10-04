@@ -2,9 +2,10 @@
 **`Cloud Engineer with a passion for learning`** 
 
 ## About Me
-- Hello, I'm Richard Santiago, and my passion lies in cloud computing and AWS. This portfolio is a testament to my ability to design, construct, and manage AWS solutions for diverse set of use cases.
-- I dive into each project to gain a deeper understanding of the AWS architecture.
-- Currently learning the violin and I enjoy bodybuilding
+- Hello, I'm Richard Santiago. I build cloud solutions and AI-powered automations across AWS, Azure, and Microsoft Power Platform, with a focus on reducing manual work in IT operations.
+- My recent work includes AI ticket triage with Azure OpenAI and low-code workflow automation with Power Automate.
+- This portfolio covers infrastructure, containers, and automation projects.
+- Currently learning the violin and I enjoy bodybuilding.
 
 
 ## Skill stack
